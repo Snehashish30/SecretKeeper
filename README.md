@@ -14,3 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+# SecretKeeper
+
+This project is intended to create an android application that can be used to store important information that someone would like to keep and pass on to their heirs after death.
+The application will periodically check if the user is alive by requesting for biometric scans. The apllication will send out the details after 'n' successive failure of biometric scans to list of recipients as set by the user via email. 
+
